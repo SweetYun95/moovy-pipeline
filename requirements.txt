@@ -1,0 +1,5 @@
+# 터미널 창에 입력하세요:pip install -r requirements.txt
+sqlalchemy
+pymysql
+requests
+python-dotenv
