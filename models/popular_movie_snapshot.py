@@ -1,4 +1,4 @@
-# models/popular_movie_snapshot.py
+# moovy-pipeline/models/popular_movie_snapshot.py
 from sqlalchemy import (
     Column,
     Integer,

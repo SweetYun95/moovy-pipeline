@@ -1,4 +1,4 @@
-# apps/crawler/popular_snapshot_job.py
+# moovy-pipeline/apps/crawler/popular_snapshot_job.py
 from datetime import date, datetime
 from typing import Iterable
 
