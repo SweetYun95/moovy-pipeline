@@ -1,4 +1,4 @@
-# configs/settings.py
+# moovy-pipeline/configs/settings.py
 import os
 from dataclasses import dataclass
 

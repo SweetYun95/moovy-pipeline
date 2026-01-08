@@ -1,4 +1,4 @@
-# models/video_content.py
+# moovy-pipeline/models/video_content.py
 from sqlalchemy import Column, Integer, String, Text, Date, DateTime
 from sqlalchemy.sql import func
 
